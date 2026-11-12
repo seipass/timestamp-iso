@@ -1,0 +1,8 @@
+[project]
+name = "timestamp-iso"
+version = "0.1.0"
+description = "Convert Unix timestamp to ISO UTC"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
